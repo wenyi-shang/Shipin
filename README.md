@@ -1,1 +1,1 @@
-Data and Code for the "Was Poetry Graded Validly?: Text Mining _Shipin_, a Sixth-Century Chinese Work of Literary Criticism" project.
+Data and Code for Shang, W. & Liu, E. X. (2025). Was Poetry Graded Validly?: Text Mining *Shipin*, a Sixth-Century Chinese Work of Literary Criticism. *Proceedings of the Computational Humanities Research Conference 2025 (CHR 2025)*.
